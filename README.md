@@ -16,7 +16,7 @@ Especializada em .Net e Angular, com foco em construir soluções robustas e efi
    <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="Binary Code GIF" border="0" width="60%">
 </p>
 
-
+# 🐍 Coding never stops, and neither does the snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lsantanadev/lsantanadev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lsantanadev/lsantanadev/output/github-contribution-grid-snake.svg">
